@@ -1,0 +1,115 @@
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:17:43.039Z
+Available Copies in House: 205
+Outstanding Outbound Loans: 0
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:18:26.087Z
+Available Copies in House: 204
+Outstanding Outbound Loans: 1
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:18:40.987Z
+Available Copies in House: 204
+Outstanding Outbound Loans: 1
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:19:34.190Z
+Available Copies in House: 202
+Outstanding Outbound Loans: 3
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:19:35.152Z
+Available Copies in House: 202
+Outstanding Outbound Loans: 3
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:19:35.928Z
+Available Copies in House: 202
+Outstanding Outbound Loans: 3
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:19:36.100Z
+Available Copies in House: 202
+Outstanding Outbound Loans: 3
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:19:36.269Z
+Available Copies in House: 202
+Outstanding Outbound Loans: 3
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:19:36.421Z
+Available Copies in House: 202
+Outstanding Outbound Loans: 3
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:19:36.583Z
+Available Copies in House: 202
+Outstanding Outbound Loans: 3
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:19:36.755Z
+Available Copies in House: 202
+Outstanding Outbound Loans: 3
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:25:18.350Z
+Available Copies in House: 204
+Outstanding Outbound Loans: 1
+================================
+=== ROXY SYSTEM SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:25:43.364Z
+Available Copies in House: 205
+Outstanding Outbound Loans: 0
+================================
+=== ROXY LIVE SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:46:17.830Z
+Available Copies: 205
+Loans Out: 0
+==============================
+=== ROXY LIVE SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:46:18.626Z
+Available Copies: 205
+Loans Out: 0
+==============================
+=== ROXY LIVE SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:46:18.899Z
+Available Copies: 205
+Loans Out: 0
+==============================
+=== ROXY LIVE SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:51:36.153Z
+Available Copies: 205
+Loans Out: 0
+==============================
+=== ROXY LIVE SNAPSHOT LOG ===
+Timestamp: 2026-06-25T10:57:56.958Z
+Available Copies: 205
+Loans Out: 0
+==============================
+=== ROXY LIVE SNAPSHOT LOG ===
+Timestamp: 2026-06-25T11:03:45.112Z
+Available Copies: 205
+Loans Out: 0
+==============================
+=== ROXY LIVE SNAPSHOT LOG ===
+Timestamp: 2026-06-26T09:36:28.049Z
+Available Copies: 205
+Loans Out: 0
+==============================
+=== ROXY LIVE SNAPSHOT LOG ===
+Timestamp: 2026-06-26T09:37:49.597Z
+Available Copies: 205
+Loans Out: 0
+==============================
+=== ROXY LIVE SNAPSHOT LOG ===
+Timestamp: 2026-06-26T09:38:04.396Z
+Available Copies: 205
+Loans Out: 0
+==============================
+=== ROXY LIVE SNAPSHOT LOG ===
+Timestamp: 2026-06-28T13:18:17.715Z
+Available Copies: 204
+Loans Out: 1
+==============================
